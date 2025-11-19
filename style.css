@@ -1,11 +1,12 @@
 
 
 body {
-	background-color:darkolivegreen ;
+	background:darkolivegreen ;
 }
 img {
 	width: 360px;
-	border-style: ridge; border-width: 10px;
+	border-style: ridge; 
+	border-width: 10px;
 	border-color: yellowgreen;
 	border-radius: 40px;
 }
