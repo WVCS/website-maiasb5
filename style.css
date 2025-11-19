@@ -1,3 +1,33 @@
-body {
+@charset "utf-8";
 
+body {
+	background-color:darkolivegreen ;
+}
+img {
+	width: 360px;
+	border-style: ridge; border-width: 10px;
+	border-color: yellowgreen;
+	border-radius: 40px;
+}
+h1 {
+	
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #274122;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color:olivedrab;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
 }
